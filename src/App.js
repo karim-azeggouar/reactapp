@@ -4,6 +4,7 @@ import Comp1 from './Components/Comp1';
 import Carray from './Carray';
 import Cradiosel from './Components/Cradiosel';
 import Cuseref from './Components/Cuseref';
+import Comp2 from './Components/Comp2';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
      <Carray/>
      <Cradiosel/>
      <Cuseref/>
+     <Comp2/>
     </div>
   );
 }
